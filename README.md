@@ -1,6 +1,5 @@
 # flutter_songkhla_travel
 
-A new Flutter project.
-
 ## Screen 
-<img src="https://github.com/ton4023/flutter_covid_report/blob/main/lib/screenshort/src.gif" width="350" alt="image">
+<img src="https://github.com/ton4023/flutter_songkhla_travel/blob/main/lib/screenshort/Selection_001.png" width="350" alt="image">
+<img src="https://github.com/ton4023/flutter_songkhla_travel/blob/main/lib/screenshort/Selection_002.png" width="350" alt="image">
