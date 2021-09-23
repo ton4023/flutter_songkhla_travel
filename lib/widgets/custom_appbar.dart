@@ -9,13 +9,13 @@ class CustomAppbar extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
             padding: const EdgeInsets.only(
-                left: 25, right: 25, top: 20, bottom: 50),
+                left: 25, right: 25, top: 25, bottom: 50),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 PrimataText(
                   text: 'Songkhla Travel',
-                  overflow: TextOverflow.visible,
+              
                   color: AppColor.primaryColor, 
                   fontWeight: FontWeight.w700,
                    size: 32,
